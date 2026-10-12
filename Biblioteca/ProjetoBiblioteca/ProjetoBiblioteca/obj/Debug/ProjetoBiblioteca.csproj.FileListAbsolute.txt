@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe.config
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.pdb
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.Properties.Resources.resources
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.exe
+C:\Users\Home\Desktop\Biblioteca\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.pdb
